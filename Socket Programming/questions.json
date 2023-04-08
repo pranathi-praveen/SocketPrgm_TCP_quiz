@@ -1,0 +1,24 @@
+{
+    "questions": [
+      {
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "answers": [
+          "1GB",
+          "Unlimited",
+          "5GB",
+          "512MB"
+        ],
+        "correct_answer": 0
+      },
+      {
+        "question": "HTML is what type of language?",
+        "answers": [
+          "Scripting Language",
+          "Programming Language",
+          "Macro Language",
+          "Markup Language"
+        ],
+        "correct_answer": 3
+      }
+    ]
+  }
